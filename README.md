@@ -65,14 +65,12 @@ pharm.html
             </div>
         </div>
     </nav>
-
     <div class="jumbotron text-center text-white" style="background-image: url('file:///d:/pic/9.jpg'); background-size: cover; height: 350px;">
         <div class="container py-5">
             <h1>Welcome to Pharmacy Company</h1>
             <p>Your health and wellness are our priority. We provide the best pharmaceutical products and services to ensure your well-being.</p>
         </div>
     </div>
-
     <div class="container mt-5">
         <h2 class="text-center mb-4">Our Services</h2>
         <div class="row text-center">
@@ -104,7 +102,6 @@ pharm.html
                 </div>
             </div>
         </div>
-
         <h2 class="text-center mt-5 mb-4">Featured Products</h2>
         <div class="row">
             <div class="col-md-4 mb-4">
@@ -145,7 +142,6 @@ pharm.html
             </div>
         </div>
     </div>
-
     <footer class="bg-primary text-white text-center py-4 mt-5">
         <div class="container">
             <div class="row">
@@ -164,7 +160,6 @@ pharm.html
             </div>
         </div>
     </footer>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
